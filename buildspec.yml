@@ -11,8 +11,5 @@ phases:
 artifacts:
   files:
     - ROOT.jar
-<<<<<<< HEAD
     - .ebextensions/**/*
-=======
-    - .ebextensions/**/*
->>>>>>> 385178f8436482d93e3c6715135e29eb034120cc
+
